@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![An image of @tanujav988's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanujav988)](https://holopin.io/@tanujav988)
 
 
 <h1 align="center">Hi 👋, I'm Tanuja V</h1>
+
+[![An image of @tanujav988's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanujav988)](https://holopin.io/@tanujav988)
+
+
 <h3 align="center">An engineer with the knowledge of development and programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujav988&label=Profile%20views&color=0e75b6&style=flat" alt="tanujav988" /> </p>
@@ -34,9 +37,9 @@ I believe in self-management which includes discipline, time management, and hav
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanuja-v-8053671a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanuja-v-8053671a4/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanuja-v-8053671a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanuja-v-8053671a4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanujav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanujav_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tanujav988/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tanujav988/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/tanujav988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanujav988" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,3 +50,8 @@ I believe in self-management which includes discipline, time management, and hav
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanujav988&show_icons=true&locale=en" alt="tanujav988" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanujav988&" alt="tanujav988" /></p>
+
+
+
+
+
