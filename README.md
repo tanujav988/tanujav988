@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **tanujav988/tanujav988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +20,13 @@ Here are some ideas to get you started:
 <h3 align="center">An engineer with the knowledge of development and programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujav988&label=Profile%20views&color=0e75b6&style=flat" alt="tanujav988" /> </p>
+
+- 📌 About me ➡️ I graduated in the year 2022 with a CGPA of 8.75 and my branch is Electronics and Communication. 
+I believe in self-management which includes discipline, time management, and having clear goals which constitute "Productivity"💪. Productivity in itself is a myth🙅‍♀️.
+
+- Coding is both easy and hard. Sometimes it becomes mind-numbingly hard to find a bug/(feature) or to develop software. But in the end, that "Eureka" moment becomes the cherry on top of the cake. That was my experience.
+  
+- 🔭 I’m currently working on **Competitive Programming, Projects**
 
 - 🌱 I’m currently learning **AWS, React JS**
 
