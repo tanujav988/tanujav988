@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujav988&label=Profile%20views&color=0e75b6&style=flat" alt="tanujav988" /> </p>
 
+
 - 📌 About me ➡️ I graduated in the year 2022 with a CGPA of 8.75 and my branch is Electronics and Communication. 
 I believe in self-management which includes discipline, time management, and having clear goals which constitute "Productivity"💪. Productivity in itself is a myth🙅‍♀️.
 
@@ -37,9 +38,12 @@ I believe in self-management which includes discipline, time management, and hav
 
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanuja-v-8053671a4)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/tanujav_/)
+
+
 
 
 ### 💻 Tech Stack:
@@ -61,3 +65,8 @@ I believe in self-management which includes discipline, time management, and hav
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanujav988&" alt="tanujav988" /></p>
 
 
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
