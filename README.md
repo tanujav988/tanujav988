@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![An image of @tanujav988's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanujav988)](https://holopin.io/@tanujav988)
 
 
-<h3 align="center">An engineer with the knowledge of development and programming</h3>
+<h3 align="center">An engineer with Curiosity && Passion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujav988&label=Profile%20views&color=0e75b6&style=flat" alt="tanujav988" /> </p>
 
