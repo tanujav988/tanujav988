@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Tanuja V</h1>
 
-[![An image of @tanujav988's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanujav988)](https://holopin.io/@tanujav988)
+![Daily News](https://github.com/tanujav988/tanujav988/assets/73555975/d7d49ebe-0b2b-45d6-8c78-1e3dc69d0574)
+
+
+
 
 
 <h3 align="center">An engineer with Curiosity && Passion</h3>
